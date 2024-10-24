@@ -17,18 +17,3 @@ header {
     text-align: center;
     padding: 1px;
 }
-div {
-    border: 1px solid black;
-    width: 50px;
-    height: 300px;
-  }
-  
-  img {
-    width: 300px;
-    height: 300px;
-    object-fit: cover;
-  }
-  .container img {
-    max-width:300px;
-    width: auto;
-}
