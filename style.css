@@ -17,3 +17,14 @@ header {
     text-align: center;
     padding: 1px;
 }
+div {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
