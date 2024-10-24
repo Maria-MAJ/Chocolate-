@@ -19,12 +19,12 @@ header {
 }
 div {
     border: 1px solid black;
-    width: 100px;
+    width: 200px;
     height: 100px;
   }
   
   img {
-    width: 100px;
+    width: 200px;
     height: 100px;
     object-fit: cover;
   }
