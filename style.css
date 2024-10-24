@@ -20,11 +20,15 @@ header {
 div {
     border: 1px solid black;
     width: 600px;
-    height: 200px;
+    height: 500px;
   }
   
   img {
     width: 600px;
-    height: 200px;
+    height: 500px;
     object-fit: cover;
   }
+  .container img {
+    max-width:300px;
+    width: auto;
+}
